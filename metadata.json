@@ -1,0 +1,8 @@
+
+{
+  "name": "Civic Connect",
+  "description": "A crowdsourced civic issue reporting and management platform to help citizens report everyday civic issues (potholes, broken streetlights, garbage overflow) and allows local government administrators to manage, track, and resolve them efficiently.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
